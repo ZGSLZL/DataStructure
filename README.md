@@ -1,2 +1,6 @@
 # DataStructure
-Code of data structure
+数据结构学习笔记
+
+# 目录
+
+
